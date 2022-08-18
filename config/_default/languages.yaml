@@ -12,11 +12,11 @@ en:
 fr:
 languageCode: fr-ca
 contentDir: content/fr
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  title: test1
+  params:
+    description: test2
+  menu:
+    main:
+      - name: test3
+        url: '#about'
+        weight: 1
