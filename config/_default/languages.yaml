@@ -10,8 +10,8 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 fr:
-languageCode: fr-ca
-contentDir: content/fr
+  languageCode: fr-ca
+  contentDir: content/fr
   title: test1
   params:
     description: test2
