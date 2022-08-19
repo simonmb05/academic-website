@@ -18,9 +18,9 @@ bio: As a researcher, I am interested in the study of Tourette syndrome and its 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neurodevelopmental disorders
+  - Cognitive electrophysiology
+  - Neuropsychology
 
 # Education to show in About widget
 education:
@@ -30,13 +30,13 @@ education:
       year: 2020-2021
     - course: Ph.D. in Neuroscience
       institution: Université de Montréal
-      year: 2014-2019
+      year: 2019
     - course: M.Sc. in Biomedical Science
       institution: Université de Montréal
-      year: 2012-2014
+      year: 2014
     - course: BSc in Psychology
       institution: Université de Montréal
-      year: 2009-2012
+      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,23 +48,23 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/SimonMBeaulieu
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.fr/citations?user=pSXEtfIAAAAJ&hl=fr
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/simon-morand-beaulieu-66599353/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Simon-Morand-Beaulieu
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/CV_Morand-Beaulieu_EN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -73,6 +73,4 @@ email: ''
 highlight_name: true
 ---
 
-I am a Postdoctoral Scholar in the Department of Psychology at McGill University. I am part of the TRAC Lab, which is directed by Anna Weinberg.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a Postdoctoral Scholar in the Department of Psychology at McGill University. I am part of the TRAC Lab, where I work under the supervision of Anna Weinberg.
