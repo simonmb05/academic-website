@@ -49,8 +49,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SimonMBeaulieu
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.fr/citations?user=pSXEtfIAAAAJ&hl=fr
   - icon: linkedin
     icon_pack: fab
@@ -69,4 +69,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a Postdoctoral Scholar in the Department of Psychology at McGill University. I am part of the TRAC Lab, where I work under the supervision of Anna Weinberg.
+I am a Postdoctoral Scholar in the Department of Psychology at McGill University. I am part of the TRAC Lab, where I work under the supervision of Anna Weinberg. As a researcher, I am interested in the study of Tourette syndrome and its associated conditions, such as attention deficit hyperactivity disorder (ADHD). In the past years, my work has focused on studying cognitive control in children with Tourette syndrome and ADHD, as well as tic control through voluntary tic suppression and behavioral therapy. I am also interested in investigating irritability and anger outbursts in Tourette syndrome.
+
+Apart from my work on Tourette syndrome and related conditions, my other interests include the study of how dyadic processes and parent-child interactions may impact child and adolescent mental health.
