@@ -44,6 +44,7 @@ content:
       name: Envoyez-moi un message privé
       link: 'https://twitter.com/SimonMBeaulieu'
 
+
 design:
   columns: '2'
 ---
