@@ -34,7 +34,7 @@ education:
     - course: M.Sc. in Biomedical Science
       institution: Université de Montréal
       year: 2014
-    - course: BSc in Psychology
+    - course: B.Sc. in Psychology
       institution: Université de Montréal
       year: 2012
 
