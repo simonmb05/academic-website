@@ -3,19 +3,29 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: '' # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
+languages:
+  en:
+    baseURL: https://example.com
+    languageName: English
+    title: ''
+    weight: 1
+  fr:
+    baseURL: https://example.fr
+    languageName: Français
+    title: ''
+    weight: 2
+
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
-google_maps_api_key: "AIzaSyAvVVjS2Z4cZSfHE3tdjnwNXP5yPLBleJs"
 
 ############################
 ## MODULES
