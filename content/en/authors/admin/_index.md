@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Postdoctoral Fellowship in Psychology
+      institution: McGill University
+      year: 2022-present
     - course: Postdoctoral Fellowship in Developmental Neuroscience
       institution: Yale University
       year: 2020-2021

@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Stage postdoctoral en psychologie
+      institution: McGill University
+      year: 2022-présent
     - course: Stage postdoctoral en neurosciences développementales
       institution: Yale University
       year: 2020-2021
