@@ -13,6 +13,14 @@ organizations:
   - name: Department of Psychology, McGill University
     url: https://www.mcgill.ca/psychology/
 
+# Role/position/tagline
+role: Test
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: Test
+    url: https://www.mcgill.ca/psychology/
+
 # Short bio (displayed in user profile at end of posts)
 bio: As a researcher, I am interested in the study of Tourette syndrome and its associated conditions, such as attention deficit hyperactivity disorder (ADHD).
 
