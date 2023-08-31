@@ -13,14 +13,6 @@ organizations:
   - name: Department of Psychology, McGill University
     url: https://www.mcgill.ca/psychology/
 
-# Role/position/tagline
-role: Test
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Test
-    url: https://www.mcgill.ca/psychology/
-
 # Short bio (displayed in user profile at end of posts)
 bio: As a researcher, I am interested in the study of Tourette syndrome and its associated conditions, such as attention deficit hyperactivity disorder (ADHD).
 
@@ -33,9 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Doctorate in psychology
+      institution: Université du Québec à Montréal
+      year: 2022-now
     - course: Postdoctoral Fellowship in Psychology
       institution: McGill University
-      year: 2022-present
+      year: 2022-now
     - course: Postdoctoral Fellowship in Developmental Neuroscience
       institution: Yale University
       year: 2020-2021

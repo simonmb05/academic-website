@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Doctorat en psychologie
+      institution: Université du Québec à Montréal
+      year: 2022-présent
     - course: Stage postdoctoral en psychologie
       institution: McGill University
       year: 2022-présent
