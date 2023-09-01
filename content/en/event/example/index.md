@@ -15,7 +15,7 @@ address:
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
-{{< youtube SCDmAzBoEwo?si=6s0CrMQOq9FsJXkh >}} 
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,6 +61,8 @@ slides: example
 projects:
   - example
 ---
+
+{{< youtube SCDmAzBoEwo?si=6s0CrMQOq9FsJXkh >}} 
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
