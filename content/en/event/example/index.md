@@ -62,7 +62,7 @@ projects:
   - example
 ---
 
-{{< youtube SCDmAzBoEwo?si=6s0CrMQOq9FsJXkh >}} 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SCDmAzBoEwo?si=9VWB47UrSsDDc53I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
