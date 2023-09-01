@@ -1,3 +1,5 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SCDmAzBoEwo?si=9VWB47UrSsDDc53I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
 ---
 title: Example Talk
 
@@ -32,7 +34,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SCDmAzBoEwo?si=9VWB47UrSsDDc53I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
