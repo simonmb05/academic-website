@@ -12,16 +12,16 @@ address:
   postcode: '94305'
   country: United States
 
-summary: 'TIC-CON 2023: The Virtual National Conference of the Tourette Association of America'
-abstract: 'Tourette syndrome (TS) and attention deficit hyperactivity disorder (ADHD) frequently co-occur. However, it remains unclear how the neurobiological underpinnings of TS and ADHD may be similar or different. By assessing functional connectivity in 137 children with either TS, ADHD, TS+ADHD, or who are typically developing controls, we wish to better understand the co-occurrence of TS and ADHD and its neurobiological underpinnings. This study will also assess how patterns of functional connectivity are associated with different measures of emotional and behavioral functioning, as well as with the severity of inattentive and hyperactive symptoms.'
+summary: '13th European Conference on Tourette Syndrome & Tic Disorders'
+abstract: ''
 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-05-19T14:00:00Z'
-date_end: '2030-05-19T14:15:00Z'
-all_day: false
+#date_end: '2030-05-19T14:15:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
