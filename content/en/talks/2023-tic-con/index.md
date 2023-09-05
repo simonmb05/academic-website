@@ -4,8 +4,8 @@ title: Disentangling Tourette syndrome and ADHD using electroencephalography and
 event: Wowchemy Conference
 event_url: https://example.org
 
-location:
-address:
+location: test
+address: test
   street: 450 Serra Mall
   city: Stanford
   region: CA
