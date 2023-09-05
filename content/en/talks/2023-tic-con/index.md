@@ -5,7 +5,7 @@ event: Wowchemy Conference
 event_url: https://example.org
 
 location: test
-address: test
+address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
