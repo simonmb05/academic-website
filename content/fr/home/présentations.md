@@ -3,9 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-slug = "présentations"
-
 active: false
+
+slug: présentation
 
 # This file represents a page section.
 headless: false
