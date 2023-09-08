@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+slug = "présentations"
+
 active: false
 
 # This file represents a page section.
