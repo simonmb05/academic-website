@@ -5,7 +5,7 @@ widget: pages
 
 active: false
 
-slug: présentation
+slug: présentations
 
 # This file represents a page section.
 headless: false
