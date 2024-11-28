@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: simon.morand-beaulieu@mcgill.ca
+  email: morand-beaulieu.simon@courrier.uqam.ca
   address:
-    street: 2001 McGill College Avenue
+    street: 100 Sherbrooke St W
     city: Montréal
     region: Qc
-    postcode: 'H3A 1G1'
+    postcode: 'H2X 3P2'
     country: Canada
     country_code: CA
   coordinates:
-    latitude: '45.50374121118067'
-    longitude: '-73.57398331349235'
-  directions: Office 1566
+    latitude: '45.51080440790328'
+    longitude: '-73.56996950306913'
+  directions: 
   contact_links:
     - icon: twitter
       icon_pack: fab
