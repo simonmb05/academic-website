@@ -6,12 +6,12 @@ title: Simon Morand-Beaulieu, Ph.D.
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Scholar
+role: Doctoral candidate in psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Psychology, McGill University
-    url: https://www.mcgill.ca/psychology/
+  - name: Département de psychologie, Université du Québec à Montréal
+    url: https://psychologie.uqam.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: As a researcher, I am interested in the study of Tourette syndrome and its associated conditions, such as attention deficit hyperactivity disorder (ADHD).
@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Doctorate in psychology
+    - course: Doctorate (Psy.D.) in psychology
       institution: Université du Québec à Montréal
       year: 2022-now
     - course: Postdoctoral Fellowship in Psychology
       institution: McGill University
-      year: 2022-now
+      year: 2022-2024
     - course: Postdoctoral Fellowship in Developmental Neuroscience
       institution: Yale University
       year: 2020-2021
@@ -75,6 +75,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a Postdoctoral Scholar in the Department of Psychology at McGill University. I am part of the TRAC Lab, where I work under the supervision of Anna Weinberg. As a researcher, I am interested in the study of Tourette syndrome and its associated conditions, such as attention deficit hyperactivity disorder (ADHD). In the past years, my work has focused on studying cognitive control in children with Tourette syndrome and ADHD, as well as tic control through voluntary tic suppression and behavioral therapy. I am also interested in investigating irritability and anger outbursts in Tourette syndrome.
+I am a doctoral candidate in psychology at the Université du Québec à Montréal. My reserch focuses mostly on the study of Tourette syndrome and its associated conditions, such as attention deficit hyperactivity disorder (ADHD). In the past years, my work has focused on studying cognitive control in children with Tourette syndrome and ADHD, as well as tic control through voluntary tic suppression and behavioral therapy. I am also interested in investigating irritability and anger outbursts in Tourette syndrome.
 
 Apart from my work on Tourette syndrome and related conditions, my other interests include the study of how dyadic processes and parent-child interactions may impact child and adolescent mental health.
