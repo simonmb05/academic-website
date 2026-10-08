@@ -6,7 +6,7 @@ title: Simon Morand-Beaulieu, Ph.D.
 superuser: true
 
 # Role/position/tagline
-role: Stagiaire postdoctoral
+role: Candidat au doctorat en psychologie
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,6 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Internat en neuropsychologie
+      institution: Centre de services scolaire Marie-Victorin
+      year: 2026-présent
+    - course: Internat en neuropsychologie
+      institution: CHU Sainte-Justine
+      year: 2025-2026
     - course: Doctorat (Psy.D.) en psychologie
       institution: Université du Québec à Montréal
       year: 2022-présent

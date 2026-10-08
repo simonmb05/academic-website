@@ -25,6 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Internship, school neuropsychology
+      institution: Centre de services scolaire Marie-Victorin
+      year: 2026-now
+    - course: Internship, clinical neuropsychology
+      institution: CHU Sainte-Justine
+      year: 2025-2026
     - course: Doctorate (Psy.D.) in psychology
       institution: Université du Québec à Montréal
       year: 2022-now
