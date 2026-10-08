@@ -14,7 +14,7 @@ main:
 #    url: '#projects'
 #    weight: 30
   - name: Présentations
-    url: 'présentations'
+    url: 'presentations'
     weight: 30
   - name: Publications
     url: 'publications'
