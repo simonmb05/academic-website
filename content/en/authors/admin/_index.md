@@ -14,7 +14,7 @@ role: Cognitive neuroscientist
 #    url: https://psychologie.uqam.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: As a researcher, I am interested in the study of Tourette syndrome and its associated conditions, such as attention deficit hyperactivity disorder (ADHD).
+#bio: As a researcher, I am interested in the study of Tourette syndrome and its associated conditions, such as attention #deficit hyperactivity disorder (ADHD).
 
 # Interests to show in About widget
 interests:
