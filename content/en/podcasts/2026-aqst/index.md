@@ -43,6 +43,10 @@ links:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/SimonMBeaulieu
+- icon: podcast
+  icon_pack: fas
+  name: Audio
+  url: 'https://podcasts.apple.com/ca/podcast/jai-un-tic-quequchose-ep-15-syndrome-de-gilles/id1656174458?i=1000773933444'
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -65,4 +69,4 @@ url_audio: 'https://podcasts.apple.com/ca/podcast/jai-un-tic-quequchose-ep-15-sy
 #  - example
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-W4SvQ0ZLls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-W4SvQ0ZLls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
