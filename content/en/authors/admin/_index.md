@@ -6,12 +6,12 @@ title: Simon Morand-Beaulieu, Ph.D.
 superuser: true
 
 # Role/position/tagline
-role: Doctoral candidate in psychology
+role: Cognitive neuroscientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Département de psychologie, Université du Québec à Montréal
-    url: https://psychologie.uqam.ca/
+#organizations:
+#  - name: Département de psychologie, Université du Québec à Montréal
+#    url: https://psychologie.uqam.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: As a researcher, I am interested in the study of Tourette syndrome and its associated conditions, such as attention deficit hyperactivity disorder (ADHD).
@@ -25,28 +25,28 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Internship, school neuropsychology
+    - course: Internship in Neuropsychology
       institution: Centre de services scolaire Marie-Victorin
-      year: 2026-now
-    - course: Internship, clinical neuropsychology
+      year: 2026
+    - course: Internship in Neuropsychology
       institution: CHU Sainte-Justine
       year: 2025-2026
-    - course: Doctorate (Psy.D.) in psychology
+    - course: Psy.D., Psychology
       institution: Université du Québec à Montréal
-      year: 2022-now
+      year: 2026
     - course: Postdoctoral Fellowship in Psychology
       institution: McGill University
       year: 2022-2024
-    - course: Postdoctoral Fellowship in Developmental Neuroscience
+    - course: Postdoctoral Fellowship in Child Psychiatry
       institution: Yale University
       year: 2020-2021
-    - course: Ph.D. in Neuroscience
+    - course: Ph.D., Neuroscience
       institution: Université de Montréal
       year: 2019
-    - course: M.Sc. in Biomedical Science
+    - course: M.Sc., Biomedical Science
       institution: Université de Montréal
       year: 2014
-    - course: B.Sc. in Psychology
+    - course: B.Sc., Psychology
       institution: Université de Montréal
       year: 2012
 
@@ -58,9 +58,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/SimonMBeaulieu
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/SimonMBeaulieu
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.fr/citations?user=pSXEtfIAAAAJ&hl=fr
@@ -81,6 +81,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a doctoral candidate in psychology at the Université du Québec à Montréal. My reserch focuses mostly on the study of Tourette syndrome and its associated conditions, such as attention deficit hyperactivity disorder (ADHD). In the past years, my work has focused on studying cognitive control in children with Tourette syndrome and ADHD, as well as tic control through voluntary tic suppression and behavioral therapy. I am also interested in investigating irritability and anger outbursts in Tourette syndrome.
+I am a cognitive neuroscientist with a strong interest in child mental health and neurodevelopment, and I have recently completed my training in pediatric neuropsychology. I have doctoral degrees in both neuroscience and clinical psychology. My research mostly focuses on neurodevelopmental conditions, with a specific interest in the study of Tourette syndrome. In the past years, my work has focused on studying cognitive control in children with Tourette syndrome and ADHD, as well as tic control through voluntary tic suppression and behavioral therapy. I am also interested in investigating irritability and anger outbursts in Tourette syndrome.
 
 Apart from my work on Tourette syndrome and related conditions, my other interests include the study of how dyadic processes and parent-child interactions may impact child and adolescent mental health.

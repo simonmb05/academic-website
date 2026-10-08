@@ -6,12 +6,12 @@ title: Simon Morand-Beaulieu, Ph.D.
 superuser: true
 
 # Role/position/tagline
-role: Candidat au doctorat en psychologie
+role: Neuroscientifique cognitiviste
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Département de psychologie, Université du Québec à Montréal
-    url: https://psychologie.uqam.ca/
+#organizations:
+#  - name: Département de psychologie, Université du Québec à Montréal
+#    url: https://psychologie.uqam.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: As a researcher, I am interested in the study of Tourette syndrome and its associated conditions, such as attention deficit hyperactivity disorder (ADHD).
@@ -27,26 +27,26 @@ education:
   courses:
     - course: Internat en neuropsychologie
       institution: Centre de services scolaire Marie-Victorin
-      year: 2026-présent
+      year: 2026
     - course: Internat en neuropsychologie
       institution: CHU Sainte-Justine
       year: 2025-2026
-    - course: Doctorat (Psy.D.) en psychologie
+    - course: Psy.D., Psychologie
       institution: Université du Québec à Montréal
-      year: 2022-présent
-    - course: Stage postdoctoral en psychologie
+      year: 2026
+    - course: Stage postdoctoral, Psychologie
       institution: McGill University
       year: 2022-2024
-    - course: Stage postdoctoral en neurosciences développementales
+    - course: Stage postdoctoral, Pédopsychiatrie
       institution: Yale University
       year: 2020-2021
-    - course: Ph.D. en neurosciences
+    - course: Ph.D., Neurosciences
       institution: Université de Montréal
       year: 2019
-    - course: M.Sc. en sciences biomédicales
+    - course: M.Sc., Sciences biomédicales
       institution: Université de Montréal
       year: 2014
-    - course: B.Sc. en psychologie
+    - course: B.Sc., Psychologie
       institution: Université de Montréal
       year: 2012
 
@@ -58,9 +58,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/SimonMBeaulieu
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/SimonMBeaulieu
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.fr/citations?user=pSXEtfIAAAAJ&hl=fr
@@ -81,6 +81,6 @@ email: ''
 highlight_name: true
 ---
 
-Je suis stagiaire au doctorat (Psy.D.) en psychologie à l'Université du Québec à Montréal. Mes intérêts de recherche concernent principalement l'étude du syndrome de Gilles de la Tourette et les conditions qui y sont souvent associées, comme le trouble du déficit d'attention avec ou sans hyperactivité (TDAH). Mes travaux récents ont principalement porté sur l'étude du contrôle cognitif chez les enfants atteints du syndrome de Gilles de la Tourette et/ou du TDAH, ainsi que le contrôle des tics via la suppression volontaire des tics et la thérapie comportementale. Je m'intéresse aussi à mieux comprendre l'irritabilité et les crises de colère chez les gens atteints du syndrome de Gilles de la Tourette.
+Je suis un neuroscientifique cognitiviste et je m'intéresse particulièrement à la santé mentale et au neurodéveloppement. De plus, j'ai récemment complété ma formation en neuropsychologie pédiatrique. Je suis titulaire d'un doctorat en neurosciences et d'un autre en psychologie clinique. Mes recherches portent principalement sur les troubles neurodéveloppementaux, avec un intérêt particulier pour l'étude du syndrome de Gilles de la Tourette. Mes travaux récents ont principalement porté sur l'étude du contrôle cognitif chez les enfants présentant le syndrome de Gilles de la Tourette et/ou le TDAH, ainsi que le contrôle des tics via la suppression volontaire des tics et la thérapie comportementale. Je m'intéresse aussi à mieux comprendre l'irritabilité et les crises de colère chez les gens vivant avec le syndrome de Gilles de la Tourette.
 
 En plus de mes travaux sur le syndrome de Gilles de la Tourette et ses conditions associées, mes autres intérêts de recherche incluent l'étude des processus dyadiques et des relations parents-enfants, dans le but de mieux comprendre comment ces interactions peuvent influencer la santé mentale des enfants et des adolescents.
