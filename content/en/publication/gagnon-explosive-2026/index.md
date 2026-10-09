@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Explosive Outbursts in Children With Tourette Syndrome: A Closer Look at Family Functioning Dimensions
+title: "Explosive Outbursts in Children With Tourette Syndrome: A Closer Look at Family Functioning Dimensions"
 subtitle: ''
 summary: ''
 authors:
