@@ -15,7 +15,7 @@ tags:
 - Explosive outbursts
 - Family functioning
 categories: []
-date: '2026'
+date: '2026-09-15'
 lastmod: 
 featured: false
 draft: false

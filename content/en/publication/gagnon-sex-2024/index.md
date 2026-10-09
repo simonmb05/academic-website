@@ -1,0 +1,56 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Sex Differences in Youth with Chronic Tic Disorder and Tourette Syndrome: Evaluation of Tic Severity, Psychological Profiles, and Quality of Life"
+subtitle: ''
+summary: ''
+authors:
+- M. Gagnon
+- S. Morand-Beaulieu
+- K. P. O'Connor
+- B. Gauthier
+- D. W. Woods
+- P. J. Blanchet
+- M. E. Lavoie
+- J. B. Leclerc
+tags:
+- Tourette syndrome
+- action planning styles
+- chronic tic disorder
+- externalizing symptoms
+- internalizing symptoms
+- quality of life
+- sex differences
+- tic onset
+- tic severity
+- youth
+categories: []
+date: '2024-04-23'
+lastmod: 
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: 
+publication_types:
+- '2'
+abstract: "Background: Tourette syndrome (TS) and Chronic Tic Disorder (CT) are neurodevelopmental conditions involving motor and/or phonic tics. Youth with tics may encounter feelings of isolation, diminished self-esteem and quality of life, and academic difficulties. A growing body of scientific literature suggests sex differences in youth with tics, but findings have been mixed so far. Because symptom severity peaks around puberty, understanding sex differences in tic manifestations and associated symptoms during this critical period is essential. Therefore, we aimed to assess sex differences related to tic symptoms, action planning styles, quality of life, and externalizing/internalizing symptoms in youth with tics. Methods: Our sample consisted of 66 youths with tics (19 girls) aged 7–14 (mean = 10 years). Youths were assessed with clinical interviews, as well as self- and parent-reported inventories evaluating tic symptoms, psychological profiles, and quality of life. Results: While no differences in tic symptoms were found, girls exhibited lower functional inflexibility, reduced overall functional planning effectiveness, and higher impairment in the psychological well-being subscale than boys. Additionally, girls had reduced general life satisfaction and social self-esteem. Boys reported more explosive outbursts, higher levels of hyperactivity, and more difficulties with self-concept. Conclusions: Our analyses suggested differences in several manifestations associated with tics. This introduces new perspectives that refine our understanding of sex differences. A better understanding of sex differences in tic disorders may eventually improve outcomes for all individuals living with these conditions."
+publication: 'J Clin Med'
+doi: 10.3390/jcm13092477
+links:
+- name: URL
+  url: https://www.mdpi.com/2077-0383/13/9/2477
+---
