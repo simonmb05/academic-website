@@ -47,11 +47,7 @@ links:
   icon_pack: fab
   name: Apple Podcasts
   url: 'https://podcasts.apple.com/ca/podcast/014-le-syndrome-de-gilles-de-la-tourette-mythes-et-r%C3%A9alit%C3%A9s/id1720427596?i=1000657686511
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: 'https://www.youtube.com/watch?v=-W4SvQ0ZLls'
-#url_audio: 'https://podcasts.apple.com/ca/podcast/jai-un-tic-quequchose-ep-15-syndrome-de-gilles/id1656174458?i=1000773933444'
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
