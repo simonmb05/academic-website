@@ -21,7 +21,7 @@ tags:
 - Graph theory
 - Tic suppression
 categories: []
-date: '2021-05-01'
+date: '2023-03-01'
 lastmod: 2022-08-22T10:00:38-04:00
 featured: false
 draft: false
