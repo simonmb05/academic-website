@@ -1,5 +1,5 @@
 ---
-title: Syndrome de Gilles de la Tourette et TDAH avec Simon Morand-Beaulieu
+title: "Le syndrome de Gilles de la Tourette : trucs et astuces pour prendre soin de soi"
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,14 +12,14 @@ address:
   postcode: '94305'
   country: United States
 
-summary: "J'ai un tic quequ'chose - Le podcast de l'AQST"
+summary: "Balado Nuance - Épisode #15"
 #abstract: 'Tourette syndrome (TS) and attention deficit hyperactivity disorder (ADHD) frequently co-occur. However, it remains unclear how the neurobiological underpinnings of TS and ADHD may be similar or different. By assessing functional connectivity in 137 children with either TS, ADHD, TS+ADHD, or who are typically developing controls, we wish to better understand the co-occurrence of TS and ADHD and its neurobiological underpinnings. This study will also assess how patterns of functional connectivity are associated with different measures of emotional and behavioral functioning, as well as with the severity of inattentive and hyperactive symptoms.'
 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-06-23T14:00:00Z'
+date: '2024-06-10T14:00:00Z'
 #date_end: '2030-05-19T14:15:00Z'
 all_day: false
 
@@ -43,22 +43,23 @@ links:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/SimonMBeaulieu
-
 - icon: apple
   icon_pack: fab
   name: Apple Podcasts
-  url: 'https://podcasts.apple.com/ca/podcast/jai-un-tic-quequchose-ep-15-syndrome-de-gilles/id1656174458?i=1000773933444'
+  url: 'https://podcasts.apple.com/ca/podcast/015-le-syndrome-de-gilles-de-la-tourette-trucs/id1720427596?i=1000658471739'
 - icon: spotify
   icon_pack: fab
   name: Spotify
-  url: 'https://open.spotify.com/episode/3rgKVKovYRdXpt8d79HawH'
+  url: 'https://open.spotify.com/episode/2GuDU1Ok9CWuCULzE4PJES'
 - icon: youtube
   icon_pack: fab
   name: Youtube
-  url: 'https://www.youtube.com/watch?v=-W4SvQ0ZLls'
-url_code: ''
-url_pdf: ''
-url_slides: ''
+  url: 'https://www.youtube.com/watch?v=x-q9hoOB9GE'
+  
+  
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
 #url_video: 'https://www.youtube.com/watch?v=-W4SvQ0ZLls'
 #url_audio: 'https://podcasts.apple.com/ca/podcast/jai-un-tic-quequchose-ep-15-syndrome-de-gilles/id1656174458?i=1000773933444'
 
@@ -77,5 +78,4 @@ url_slides: ''
 #projects:
 #  - example
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-W4SvQ0ZLls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-q9hoOB9GE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

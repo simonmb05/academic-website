@@ -1,5 +1,5 @@
 ---
-title: Syndrome de Gilles de la Tourette et TDAH avec Simon Morand-Beaulieu
+title: Capsule Santé psychologique et counseling de carrière - Syndrome Gilles de la Tourette
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,14 +12,14 @@ address:
   postcode: '94305'
   country: United States
 
-summary: "J'ai un tic quequ'chose - Le podcast de l'AQST"
+summary: "Capsule Santé psychologique et counseling de carrière - Louis Cournoyer"
 #abstract: 'Tourette syndrome (TS) and attention deficit hyperactivity disorder (ADHD) frequently co-occur. However, it remains unclear how the neurobiological underpinnings of TS and ADHD may be similar or different. By assessing functional connectivity in 137 children with either TS, ADHD, TS+ADHD, or who are typically developing controls, we wish to better understand the co-occurrence of TS and ADHD and its neurobiological underpinnings. This study will also assess how patterns of functional connectivity are associated with different measures of emotional and behavioral functioning, as well as with the severity of inattentive and hyperactive symptoms.'
 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-06-23T14:00:00Z'
+date: '2025-09-18T14:00:00Z'
 #date_end: '2030-05-19T14:15:00Z'
 all_day: false
 
@@ -44,18 +44,10 @@ links:
 #    name: Follow
 #    url: https://twitter.com/SimonMBeaulieu
 
-- icon: apple
-  icon_pack: fab
-  name: Apple Podcasts
-  url: 'https://podcasts.apple.com/ca/podcast/jai-un-tic-quequchose-ep-15-syndrome-de-gilles/id1656174458?i=1000773933444'
-- icon: spotify
-  icon_pack: fab
-  name: Spotify
-  url: 'https://open.spotify.com/episode/3rgKVKovYRdXpt8d79HawH'
 - icon: youtube
   icon_pack: fab
   name: Youtube
-  url: 'https://www.youtube.com/watch?v=-W4SvQ0ZLls'
+  url: 'https://www.youtube.com/watch?v=D6Rotdukfno'
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -78,4 +70,4 @@ url_slides: ''
 #  - example
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-W4SvQ0ZLls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6Rotdukfno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
