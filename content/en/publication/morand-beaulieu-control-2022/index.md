@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Vicarious conditioned fear acquisition and extinction in child-parent dyads
+title: "Control of actions and tics: A psychophysiological perspective"
 subtitle: ''
 summary: ''
 authors:
