@@ -47,6 +47,15 @@ links:
   icon_pack: fab
   name: Apple Podcasts
   url: 'https://podcasts.apple.com/ca/podcast/014-le-syndrome-de-gilles-de-la-tourette-mythes-et-r%C3%A9alit%C3%A9s/id1720427596?i=1000657686511'
+- icon: spotify
+  icon_pack: fab
+  name: Spotify
+  url: 'https://open.spotify.com/episode/2GuDU1Ok9CWuCULzE4PJES'
+- icon: youtube
+  icon_pack: fab
+  name: Youtube
+  url: 'https://www.youtube.com/watch?v=zBRhpC8_YL4'
+  
   
 # url_code: ''
 # url_pdf: ''
@@ -69,5 +78,4 @@ links:
 #projects:
 #  - example
 ---
-
-#<iframe width="560" height="315" src="https://www.youtube.com/embed/-W4SvQ0ZLls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zBRhpC8_YL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
