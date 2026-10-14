@@ -76,6 +76,3 @@ url_video: 'https://www.essts.org/news/cognition-in-tourette-syndrome'
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
----
-
-#{{< video src="essts2024.mp4" controls="yes" >}}
