@@ -77,6 +77,7 @@ url_slides: ''
 #projects:
 #  - example
 ---
-"I collaborate with the Centre de Formation CENOP to offer live webinars (in French) on Tourette syndrome. These webinars are intended for clinicians, students, school personnel, and anyone interested in learning more about Tourette syndrome.
+I collaborate with the Centre de formation CENOP to offer live webinars (in French) on Tourette syndrome. These webinars are intended for clinicians, students, school personnel, and anyone interested in learning more about Tourette syndrome.
 
-For information on upcoming webinars and registration, please visit the CENOP website below."
+For information on upcoming webinars and registration, please visit the Centre de formation CENOP website.
+---
