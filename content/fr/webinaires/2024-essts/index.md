@@ -1,5 +1,5 @@
 ---
-title: Syndrome de Gilles de la Tourette et TDAH avec Simon Morand-Beaulieu
+title: Cognition in Tourette syndrome
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: "J'ai un tic quequ'chose - Le podcast de l'AQST"
+summary: "Webinaires de l'ESSTS - 2024"
 #abstract: 'Tourette syndrome (TS) and attention deficit hyperactivity disorder (ADHD) frequently co-occur. However, it remains unclear how the neurobiological underpinnings of TS and ADHD may be similar or different. By assessing functional connectivity in 137 children with either TS, ADHD, TS+ADHD, or who are typically developing controls, we wish to better understand the co-occurrence of TS and ADHD and its neurobiological underpinnings. This study will also assess how patterns of functional connectivity are associated with different measures of emotional and behavioral functioning, as well as with the severity of inattentive and hyperactive symptoms.'
 
 

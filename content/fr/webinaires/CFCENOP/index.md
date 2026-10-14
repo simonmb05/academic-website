@@ -59,7 +59,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://www.essts.org/news/cognition-in-tourette-syndrome'
+#url_video: 'https://www.essts.org/news/cognition-in-tourette-syndrome'
 #url_audio: 'https://podcasts.apple.com/ca/podcast/jai-un-tic-quequchose-ep-15-syndrome-de-gilles/id1656174458?i=1000773933444'
 
 # Markdown Slides (optional).
@@ -76,4 +76,8 @@ url_video: 'https://www.essts.org/news/cognition-in-tourette-syndrome'
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
+---
+Je collabore avec le Centre de formation CENOP pour offrir des webinaires au sujet du syndrome de Gilles de la Tourette. Ces webinaires s'adressent principalement au personnel du milieu de la santé et du milieu scolaire, mais aussi à toute personne intéressée à en apprendre plus au sujet du syndrome de Gilles de la Tourette.
+
+Pour plus d'information au sujet des webinaires à venir et des inscriptions, veuillez visiter le site web du Centre de formation CENOP.
 ---
