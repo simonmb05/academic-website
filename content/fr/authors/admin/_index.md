@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Simon Morand-Beaulieu, Ph.D.
+title: Simon Morand-Beaulieu, Ph.D., Psy.D.
 
 # Is this the primary user of the site?
 superuser: true
