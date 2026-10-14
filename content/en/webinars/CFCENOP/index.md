@@ -1,5 +1,5 @@
 ---
-title: Webinaires offerts avec le Centre de formation CENOP
+title: Webinars offered through Centre de formation CENOP
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: "Webinaires - Centre de formation CENOP"
+summary: "Webinars - Centre de formation CENOP"
 abstract: "I also collaborate with the Centr de formation CENOP to offer live webinars (in French) on Tourette syndrome. Further information can be found on their website."
 
 
@@ -59,7 +59,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://www.essts.org/news/cognition-in-tourette-syndrome'
+#url_video: 'https://www.essts.org/news/cognition-in-tourette-syndrome'
 #url_audio: 'https://podcasts.apple.com/ca/podcast/jai-un-tic-quequchose-ep-15-syndrome-de-gilles/id1656174458?i=1000773933444'
 
 # Markdown Slides (optional).
@@ -77,3 +77,6 @@ url_video: 'https://www.essts.org/news/cognition-in-tourette-syndrome'
 #projects:
 #  - example
 ---
+"I collaborate with the Centre de Formation CENOP to offer live webinars (in French) on Tourette syndrome. These webinars are intended for clinicians, students, school personnel, and anyone interested in learning more about Tourette syndrome.
+
+For information on upcoming webinars and registration, please visit the CENOP website below."
